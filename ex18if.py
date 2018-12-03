@@ -1,6 +1,6 @@
 def main():
     scoreBenfica=int(input("Quantos golos o SLB marcou: "))
-    scorePorto=int(input("Quantos goloso FCP marcou: "))
+    scorePorto=int(input("Quantos golos o FCP marcou: "))
     pontosBenfica=0
     pontosPorto=0
     if scoreBenfica == scorePorto:
