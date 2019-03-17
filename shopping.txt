@@ -1,0 +1,4 @@
+ovos
+carne
+leite
+batatas
