@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="34588f89-2f6b-4978-846f-1c48a146a8da" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/connected4Refractor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex45.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex46.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex47.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/connected4Refractor.py" beforeDir="false" afterPath="$PROJECT_DIR$/connected4Refractor.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,8 +28,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/connected4Refractor.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2445">
-              <caret line="163" column="103" selection-start-line="163" selection-start-column="103" selection-end-line="163" selection-end-column="103" />
+            <state relative-caret-position="210">
+              <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -49,6 +46,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>board</find>
+      <find>dlt</find>
     </findStrings>
     <replaceStrings>
       <replace>jogo</replace>
@@ -179,7 +177,7 @@
       <workItem from="1552643721310" duration="3776000" />
       <workItem from="1552651968684" duration="1521000" />
       <workItem from="1552666209712" duration="1433000" />
-      <workItem from="1552838380946" duration="1076000" />
+      <workItem from="1552838380946" duration="1751000" />
     </task>
     <task id="LOCAL-00001" summary="connected4 done">
       <created>1552647784970</created>
@@ -202,16 +200,24 @@
       <option name="project" value="LOCAL" />
       <updated>1552653488236</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="ultimo ex de funções">
+      <created>1552839457571</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1552839457572</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9487000" />
+    <option name="totallyTimeSpent" value="10162000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="-11" width="1368" height="780" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18484849" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18484849" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -225,7 +231,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.10852713" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.51472867" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.32868218" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -393,8 +399,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/connected4Refractor.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2445">
-          <caret line="163" column="103" selection-start-line="163" selection-start-column="103" selection-end-line="163" selection-end-column="103" />
+        <state relative-caret-position="210">
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
         </state>
       </provider>
     </entry>
