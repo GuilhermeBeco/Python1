@@ -12,6 +12,7 @@ def jogadores(players):
         tempPlayer = input("Please enter your name: ")
         players.append(tempPlayer)
         #um array para os players de modo a saber qual será e para a seguir fazer o random e dar as cores
+
     return players
 def game(players,jogo,tokens,startPlayer):
     ret=[]
