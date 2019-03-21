@@ -1,5 +1,5 @@
 import ex59
-import ex59class
+import Stack
 def main():
-    myStack = ex59class.Stack()
+    myStack = Stack.Stack()
     ex59.useStack(myStack)
