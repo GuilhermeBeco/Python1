@@ -1,0 +1,16 @@
+import sqlite3
+
+
+def create_table(db_name,sql):
+    with sqlite3.connect(db_name) as db:
+        cursor=db.cursor()
+        cursor.execute(sql)
+        db.commit()
+if __name__ == '__main__':
+    db_name = "Coffe_shop.db"
+    sql = """create table Product
+    (ProductID integer,
+    Name varchar ,
+    Price real,
+    primary key(ProductID))"""
+    create_table(db_name,sql)
