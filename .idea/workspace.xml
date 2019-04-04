@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="34588f89-2f6b-4978-846f-1c48a146a8da" name="Default Changelist" comment="vou para files">
-      <change afterPath="$PROJECT_DIR$/Coffe_shop.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex61.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Python1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="34588f89-2f6b-4978-846f-1c48a146a8da" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run_python.sh" beforeDir="false" afterPath="$PROJECT_DIR$/run_python.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coffe_shop.db" beforeDir="false" afterPath="$PROJECT_DIR$/Coffe_shop.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex61.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex61.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -78,17 +75,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ex61.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="13" lean-forward="true" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ex59class.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" column="29" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="29" />
+            <state relative-caret-position="150">
+              <caret line="10" column="59" lean-forward="true" selection-start-line="10" selection-start-column="59" selection-end-line="10" selection-end-column="59" />
             </state>
           </provider>
         </entry>
@@ -157,7 +145,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="4">
     <option name="width" value="683" />
     <option name="height" value="768" />
   </component>
@@ -327,7 +315,8 @@
       <workItem from="1553458268987" duration="494000" />
       <workItem from="1554046058358" duration="231000" />
       <workItem from="1554048419585" duration="19000" />
-      <workItem from="1554110971824" duration="766000" />
+      <workItem from="1554110971824" duration="1509000" />
+      <workItem from="1554371541300" duration="1392000" />
     </task>
     <task id="LOCAL-00001" summary="connected4 done">
       <created>1552647784970</created>
@@ -385,11 +374,18 @@
       <option name="project" value="LOCAL" />
       <updated>1553090157897</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="db">
+      <created>1554111770445</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1554111770445</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23263000" />
+    <option name="totallyTimeSpent" value="25398000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -401,7 +397,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1366" height="768" extended-state="6" />
+    <frame x="0" y="0" width="683" height="768" extended-state="4" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.4909091" />
@@ -409,7 +405,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32605305" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32605305" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -445,10 +441,11 @@
     <MESSAGE value="https://pythonschool.net/basics/functions-exercises/" />
     <MESSAGE value="ultimo ex de funções" />
     <MESSAGE value="vou para files" />
-    <option name="LAST_COMMIT_MESSAGE" value="vou para files" />
+    <MESSAGE value="db" />
+    <option name="LAST_COMMIT_MESSAGE" value="db" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Python1$ex61.coverage" NAME="ex61 Coverage Results" MODIFIED="1554111319564" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python1$ex61.coverage" NAME="ex61 Coverage Results" MODIFIED="1554372325740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python1$ex59_class.coverage" NAME="ex59.class Coverage Results" MODIFIED="1554111308688" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="editorHistoryManager">
@@ -659,6 +656,7 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/ex59class.py" />
     <entry file="file://$PROJECT_DIR$/ex54.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
@@ -701,13 +699,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ex59class.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="29" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ex60.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -720,8 +711,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ex61.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="13" lean-forward="true" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        <state relative-caret-position="150">
+          <caret line="10" column="59" lean-forward="true" selection-start-line="10" selection-start-column="59" selection-end-line="10" selection-end-column="59" />
         </state>
       </provider>
     </entry>
